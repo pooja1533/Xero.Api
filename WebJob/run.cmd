@@ -1,0 +1,1 @@
+Xero.Api.Accounts.exe A1LR -f & Xero.Api.Accounts.exe A1LRH -f & Xero.Api.Accounts.exe A1LRI -f & Xero.Api.Accounts.exe IC -f & Xero.Api.Accounts.exe ARCS -f

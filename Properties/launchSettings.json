@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Xero.Api.Accounts": {
+      "commandName": "Project",
+      "commandLineArgs": "ARCS -f",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      }
+    }
+  }
+}
